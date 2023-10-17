@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator= NewDesignator=*
+Added Component: Designator=D?(SOT23)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.diodes.com/assets/Datasheets/ds18001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "BZX84C18-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Leakage Current"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "18mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BZX84C18-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "6%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Tolerance"; Value = "6%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Zener Current"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Zener Voltage"; Value = "18V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOV1_2 Pin=D?-1
+Added Pin To Net: NetName=GPIO6 Pin=D?-3
+Added Member To Class: ClassName=Sheet1 Member=Component * IND_1812
+Added Member To Class: ClassName=Sheet2 Member=Component D? Diode, Zener, BZX84C18
